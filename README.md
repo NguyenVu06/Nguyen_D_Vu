@@ -1,6 +1,14 @@
 # Hello, I am Nguyen Vu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+- 💼 I am currently a **Data Scientist**, formerly 💊 pharma scientist
+- I ❤️ building **ML/DL models** and  **beautiful dashboards**
+- I am passionate about learning🌱 **DL** techniques
+- 💬 Please shoot me any question at <mailto:dnvdcap87@gmail.com>
 
+<h3 align="center">Find me on</h3>
+<a 
+href="https://www.linkedin.com/in/nguyendvu/" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
