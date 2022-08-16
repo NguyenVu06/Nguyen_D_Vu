@@ -2,7 +2,7 @@
 
 - 💼 I am currently a **Data Scientist**, formerly 💊 pharma Engineer
 - I ❤️ building **ML/DL models** and  **dashboards**
-- I am passionate about learning🌱 and chatting about **DL** techniques
+- I am passionate about learning🌱 and discussing emerging **ML/DL** techniques
 
 <h3 align="left">💬 Find more of my info on</h3>
 <a 
