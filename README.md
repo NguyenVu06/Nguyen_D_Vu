@@ -1,6 +1,6 @@
 # Hello, I am Nguyen D. Vu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 💼 I am currently a **Data Scientist**, formerly 💊 Pharmaceuticals Engineer
+- 💼 I am currently a **Data Scientist** working on geospatial data, formerly 💊 Pharmaceuticals Engineer
 - I ❤️ building **ML/DL models** and  **dashboards**
 - I am passionate about learning🌱 and discussing **ML/DL** techniques
 
